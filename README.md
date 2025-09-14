@@ -1,1 +1,12 @@
-# wd1-l2_ricafrente
+reference!!!
+https://www.youtube.com/live/oQsIsOGs-Q8?si=0aADWUGJnjbpMHbb
+https://developer.mozilla.org/en-US/docs/Learn/Forms
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
+https://developer.mozilla.org/en-US/docs/Web/API/Window/location
+https://www.w3schools.com/howto/howto_js_toggle_password.asp
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement/type
+https://css-tricks.com/centering-css-complete-guide/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/#center-items
+https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem
+https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem#storing_objects
